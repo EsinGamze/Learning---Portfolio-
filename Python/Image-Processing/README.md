@@ -63,7 +63,7 @@ Two Level-2A Sentinel-2 RGB images were downloaded from the Copernicus Data Spac
 Learning---Portfolio-/
 └── Python/
     └── Image-Processing/
-        ├── main.py
+        ├── image_process_ipynb
         ├── [input & output image files]
         ├── [plots and metric charts]
         └── iq_metrics_summary.csv
