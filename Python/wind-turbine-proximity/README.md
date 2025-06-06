@@ -26,3 +26,8 @@ This project investigates the proximity of wind turbines to administrative distr
 - **Wind Turbine Data:** Extracted using [Overpass Turbo](https://overpass-turbo.eu/)
 - **Berlin District Boundaries (Bezirksgrenzen):** https://daten.odis-berlin.de/en/dataset/bezirksgrenzen/
 
+# Wind Turbine Map – Berlin
+
+➡️ [Click here to view the map](https://esingamze.github.io/learning-portfolio/Python/wind-turbine-proximity/wind_turbines_proximity_final.html)
+
+
