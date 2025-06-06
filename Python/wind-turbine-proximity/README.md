@@ -24,5 +24,5 @@ This project investigates the proximity of wind turbines to administrative distr
 ## Data Sources
 
 - **Wind Turbine Data:** Extracted using [Overpass Turbo](https://overpass-turbo.eu/)
-- **Berlin District Boundaries (Bezirksgrenzen):** (https://daten.odis-berlin.de/en/dataset/bezirksgrenzen/)
+- **Berlin District Boundaries (Bezirksgrenzen):** https://daten.odis-berlin.de/en/dataset/bezirksgrenzen/
 
