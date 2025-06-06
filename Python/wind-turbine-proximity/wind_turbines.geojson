@@ -1,0 +1,1500 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-06-05T13:52:27Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33965037",
+        "check_date": "2017-04-21",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.00 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "141m",
+        "manufacturer": "Vestas",
+        "model": "V112",
+        "note": "Repowering ersetzt Tacke EN600a",
+        "power": "generator",
+        "ref": "V 204887",
+        "rotor:diameter": "112m",
+        "start_date": "2014-07",
+        "survey:date": "2014-07-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5904616,
+          52.618558
+        ]
+      },
+      "id": "node/33965037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279618250",
+        "description": "E-82 2000 kW Nabenhöhe 138 m",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2000 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "138m",
+        "manufacturer": "Enercon",
+        "model": "E-82",
+        "note": "Berlins erstes Windrad",
+        "operator": "Neue Energie Berlin",
+        "power": "generator",
+        "rotor:diameter": "82m",
+        "start_date": "2008/07",
+        "wikidata": "Q2583644",
+        "wikipedia": "de:Bezirk Pankow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4297834,
+          52.6360864
+        ]
+      },
+      "id": "node/279618250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279679946",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "1.50 MW",
+        "generator:source": "wind",
+        "height:hub": "85 m",
+        "manufacturer": "Südwind",
+        "model": "S 70",
+        "power": "generator",
+        "ref": "SW-70178",
+        "rotor:diameter": "70 m",
+        "start_date": "2003/02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4258392,
+          52.6657748
+        ]
+      },
+      "id": "node/279679946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/362756139",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2000 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "105m",
+        "manufacturer": "Vestas",
+        "model": "V 90-2-105",
+        "power": "generator",
+        "ref": "V-32402",
+        "rotor:diameter": "90m",
+        "start_date": "2008/02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5868263,
+          52.6202774
+        ]
+      },
+      "id": "node/362756139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/362788975",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "1500 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "100m",
+        "manufacturer": "GE Wind Energy",
+        "model": "GE 1.5 sl",
+        "power": "generator",
+        "ref": "GE-15561358",
+        "rotor:diameter": "77m",
+        "source:name": "WEA-NIS",
+        "start_date": "2003/12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5972077,
+          52.6166355
+        ]
+      },
+      "id": "node/362788975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/363973789",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2000 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "140",
+        "height:hub": "100 m",
+        "manufacturer": "Vestas",
+        "model": "V80",
+        "power": "generator",
+        "ref": "V-16859",
+        "rotor:diameter": "80 m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2612549,
+          52.3397857
+        ]
+      },
+      "id": "node/363973789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/363983008",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2000 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "140",
+        "height:hub": "100 m",
+        "manufacturer": "Vestas",
+        "model": "V80",
+        "power": "generator",
+        "ref": "V-16858",
+        "rotor:diameter": "80 m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2661,
+          52.3368563
+        ]
+      },
+      "id": "node/363983008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/363985648",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2000 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "140",
+        "height:hub": "100 m",
+        "manufacturer": "Vestas",
+        "model": "V80",
+        "power": "generator",
+        "ref": "V-16860",
+        "rotor:diameter": "80 m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2604895,
+          52.3355625
+        ]
+      },
+      "id": "node/363985648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/692755389",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2000 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "100m",
+        "manufacturer": "REpower",
+        "model": "MM 92/100",
+        "power": "generator",
+        "ref": "R-90906",
+        "rotor:diameter": "92m",
+        "source:name": "WEA-NIS",
+        "start_date": "2009/10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5343345,
+          52.6101684
+        ]
+      },
+      "id": "node/692755389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/830477381",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2000 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "105m",
+        "manufacturer": "Vestas",
+        "model": "V 90-2-105",
+        "power": "generator",
+        "ref": "V-35256",
+        "rotor:diameter": "90m",
+        "start_date": "2010/06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5990224,
+          52.6219669
+        ]
+      },
+      "id": "node/830477381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/830477382",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2000 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "105m",
+        "manufacturer": "Vestas",
+        "model": "V 90-2-105",
+        "power": "generator",
+        "ref": "V-37091",
+        "rotor:diameter": "90m",
+        "start_date": "2010/06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5946292,
+          52.6252046
+        ]
+      },
+      "id": "node/830477382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/881249195",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "1.50 MW",
+        "generator:source": "wind",
+        "height:hub": "85 m",
+        "manufacturer": "Südwind",
+        "model": "S 70",
+        "power": "generator",
+        "ref": "SW-70182",
+        "rotor:diameter": "70 m",
+        "start_date": "2003/02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4216996,
+          52.6681836
+        ]
+      },
+      "id": "node/881249195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2026362807",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2000 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "100m",
+        "manufacturer": "REpower",
+        "model": "MM 92/100",
+        "power": "generator",
+        "ref": "R-91177",
+        "rotor:diameter": "92m",
+        "source": "Bing",
+        "source:name": "WEA-NIS",
+        "start_date": "2012/12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5392587,
+          52.6098737
+        ]
+      },
+      "id": "node/2026362807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2026362816",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3400 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "128m",
+        "manufacturer": "REpower",
+        "model": "3.4M104-128",
+        "power": "generator",
+        "ref": "R-300096",
+        "rotor:diameter": "104m",
+        "source": "Bing",
+        "source:name": "WEA-NIS",
+        "start_date": "2012/05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5472856,
+          52.6105023
+        ]
+      },
+      "id": "node/2026362816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2026362850",
+        "check_date": "2024-07-24",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "6.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "164",
+        "manufacturer": "Nordex",
+        "model": "N163",
+        "note": "LINrep7",
+        "operator": "Teut",
+        "power": "generator",
+        "ref": "MaStR-Nr. SEE945307575618",
+        "rotor:diameter": "163",
+        "source": "survey, Bundesnetzagentur",
+        "start_date": "2024-07",
+        "survey:date": "2023-09-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5336451,
+          52.6135496
+        ]
+      },
+      "id": "node/2026362850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2030995218",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2.00 MW",
+        "generator:source": "wind",
+        "height": "120 m",
+        "manufacturer": "e.n.o.",
+        "model": "E.N.O. 92-2.2",
+        "operator": "Berliner Wasserbetriebe",
+        "power": "generator",
+        "ref": "ENO-920007",
+        "rotor:diameter": "92 m",
+        "start_date": "2012/12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4191263,
+          52.6653789
+        ]
+      },
+      "id": "node/2030995218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2030995219",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2.00 MW",
+        "generator:source": "wind",
+        "height": "120 m",
+        "manufacturer": "e.n.o.",
+        "model": "E.N.O. 92-2.2",
+        "operator": "Berliner Wasserbetriebe",
+        "power": "generator",
+        "ref": "ENO-920008",
+        "rotor:diameter": "92 m",
+        "source": "eks-brb",
+        "start_date": "2012/12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4120897,
+          52.6655719
+        ]
+      },
+      "id": "node/2030995219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2030995220",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2.00 MW",
+        "generator:source": "wind",
+        "height": "120 m",
+        "manufacturer": "e.n.o.",
+        "model": "E.N.O. 92-2.2",
+        "operator": "Berliner Wasserbetriebe",
+        "power": "generator",
+        "ref": "ENO-920009",
+        "rotor:diameter": "92 m",
+        "start_date": "2012/12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4157653,
+          52.6677489
+        ]
+      },
+      "id": "node/2030995220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2661663811",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.80 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "75m",
+        "manufacturer": "Enercon",
+        "model": "E48",
+        "power": "generator",
+        "rotor:diameter": "48m",
+        "source": "eks-brb",
+        "start_date": "2005/10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1329409,
+          52.6840664
+        ]
+      },
+      "id": "node/2661663811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2661663812",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2.00 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "138m",
+        "manufacturer": "Enercon",
+        "model": "E82 E2",
+        "power": "generator",
+        "rotor:diameter": "82m",
+        "source": "eks-brb",
+        "start_date": "2010/12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1283777,
+          52.6842839
+        ]
+      },
+      "id": "node/2661663812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2661663813",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2.00 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "108m",
+        "manufacturer": "Enercon",
+        "model": "E82 E2",
+        "power": "generator",
+        "rotor:diameter": "82m",
+        "source": "eks-brb",
+        "start_date": "2010/12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1263513,
+          52.6859932
+        ]
+      },
+      "id": "node/2661663813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2661663814",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.80 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "75m",
+        "manufacturer": "Enercon",
+        "model": "E48",
+        "power": "generator",
+        "rotor:diameter": "48m",
+        "source": "eks-brb",
+        "start_date": "2005/10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1310224,
+          52.6884857
+        ]
+      },
+      "id": "node/2661663814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2993787716",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2.30 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "138m",
+        "manufacturer": "Enercon",
+        "model": "E82 E2",
+        "operator": "Neue Energie Berlin",
+        "power": "generator",
+        "ref": "WEA E-82 825924",
+        "rotor:diameter": "82",
+        "source:link": "http://www.territorioscuola.com/enhancedwiki/de.php?title=Liste_von_Windkraftanlagen_in_Berlin_und_Brandenburg",
+        "start_date": "14.11.2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5014657,
+          52.596869
+        ]
+      },
+      "id": "node/2993787716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3102618500",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "vertical_axis",
+        "location": "rooftop",
+        "operator": "DB Mobility Logistics AG",
+        "power": "generator",
+        "source": "http://www.deutschebahn.com/de/hidden_rss/pi_rss/6830244/h20140430.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3638591,
+          52.4748773
+        ]
+      },
+      "id": "node/3102618500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3142493276",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "vertical_axis",
+        "location": "rooftop",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3646126,
+          52.4756197
+        ]
+      },
+      "id": "node/3142493276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3770651730",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.20 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "143 m",
+        "manufacturer": "Senvion",
+        "model": "3.2M114",
+        "operator": "Teut Windprojekte GmbH",
+        "power": "generator",
+        "ref": "SEN 300808",
+        "rotor:diameter": "114 m",
+        "source:name:link": "eks.brandenburg.de",
+        "start_date": "2015/11",
+        "survey:date": "2015-12-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5342455,
+          52.617351
+        ]
+      },
+      "id": "node/3770651730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3837586532",
+        "description": "E-92 2350 kW Nabenhöhe 138 m",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2350 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "138m",
+        "manufacturer": "Enercon",
+        "model": "E-92",
+        "power": "generator",
+        "rotor:diameter": "92m",
+        "start_date": "2015/11",
+        "survey:date": "2015-12-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4437152,
+          52.6297936
+        ]
+      },
+      "id": "node/3837586532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3837586533",
+        "description": "E-92 2350 kW Nabenhöhe 138 m",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2350 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "138m",
+        "manufacturer": "Enercon",
+        "model": "E-92",
+        "power": "generator",
+        "rotor:diameter": "92m",
+        "start_date": "2015/12",
+        "survey:date": "2015-12-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4480586,
+          52.6315306
+        ]
+      },
+      "id": "node/3837586533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3871409548",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.0 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "119",
+        "manufacturer": "Vestas",
+        "model": "V112-3.0MW",
+        "power": "generator",
+        "ref": "V 208675",
+        "rotor:diameter": "112",
+        "start_date": "2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2606457,
+          52.3580934
+        ]
+      },
+      "id": "node/3871409548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3914773426",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.0 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "119",
+        "manufacturer": "Vestas",
+        "model": "V112-3.0MW",
+        "power": "generator",
+        "ref": "V 208674",
+        "rotor:diameter": "112",
+        "start_date": "2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2595348,
+          52.3518092
+        ]
+      },
+      "id": "node/3914773426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3914773428",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.3 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "119",
+        "manufacturer": "Vestas",
+        "model": "V112-3.3MW",
+        "power": "generator",
+        "ref": "V 210340",
+        "rotor:diameter": "112",
+        "start_date": "2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2525095,
+          52.3548149
+        ]
+      },
+      "id": "node/3914773428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3914773429",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.3 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "119",
+        "manufacturer": "Vestas",
+        "model": "V112-3.3MW",
+        "power": "generator",
+        "ref": "V 210339",
+        "rotor:diameter": "112",
+        "start_date": "2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2579007,
+          52.3556093
+        ]
+      },
+      "id": "node/3914773429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4098463849",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "location": "roof",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3263795,
+          52.5097767
+        ]
+      },
+      "id": "node/4098463849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4416883232",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.4 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "126 m",
+        "manufacturer": "Senvion",
+        "model": "3.4M104",
+        "operator": "BSR",
+        "power": "generator",
+        "ref": "SEN301092",
+        "rotor:diameter": "104 m",
+        "source": "survey",
+        "start_date": "2016/09",
+        "survey:date": "2016-09-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4350936,
+          52.640818
+        ]
+      },
+      "id": "node/4416883232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4701614702",
+        "disused:generator:source": "wind",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "height": "5",
+        "power": "generator",
+        "removed:generator:method": "wind_turbine",
+        "removed:generator:type": "horizontal_axis",
+        "removed:power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4178343,
+          52.4747326
+        ]
+      },
+      "id": "node/4701614702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5507218037",
+        "ele": "47",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3450 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "199.5",
+        "height:hub": "141",
+        "model": "V117",
+        "name": "WEA V-222035",
+        "operator": "Berliner Stadtwerke",
+        "power": "generator",
+        "ref": "V-222035",
+        "rotor:diameter": "117",
+        "start_date": "2018-03-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2535824,
+          52.3428508
+        ]
+      },
+      "id": "node/5507218037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6155780597",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "vertical_axis",
+        "height:hub": "6",
+        "location": "roof",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3703143,
+          52.5282278
+        ]
+      },
+      "id": "node/6155780597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6155780598",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "vertical_axis",
+        "height:hub": "6",
+        "location": "roof",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3704284,
+          52.5282575
+        ]
+      },
+      "id": "node/6155780598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7770693900",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "4.2 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "166",
+        "manufacturer": "Vestas",
+        "model": "V136-4.2MW",
+        "power": "generator",
+        "ref": "V240299",
+        "rotor:diameter": "136",
+        "start_date": "2021-12-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.251735,
+          52.3516533
+        ]
+      },
+      "id": "node/7770693900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7770693901",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "5.6 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "169",
+        "manufacturer": "Vestas",
+        "model": "V150-5.6MW",
+        "power": "generator",
+        "ref": "V240298",
+        "rotor:diameter": "150",
+        "start_date": "2022-01-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2501873,
+          52.3578553
+        ]
+      },
+      "id": "node/7770693901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7908008089",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "5.7 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "105 m",
+        "manufacturer": "Nordex",
+        "model": "N149/5.X",
+        "power": "generator",
+        "ref": "NX 87850",
+        "rotor:diameter": "149 m",
+        "start_date": "2020-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2493228,
+          52.3370489
+        ]
+      },
+      "id": "node/7908008089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8725404855",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "4.2 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "160 m",
+        "manufacturer": "Enercon",
+        "model": "E138",
+        "power": "generator",
+        "rotor:diameter": "138 m",
+        "source": "survey",
+        "start_date": "2021/10",
+        "survey:date": "2021-05-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4953554,
+          52.5939331
+        ]
+      },
+      "id": "node/8725404855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9023611322",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "5.7 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "105",
+        "manufacturer": "Nordex",
+        "model": "N149/5.X",
+        "operator": "Berliner Stadtwerke",
+        "power": "generator",
+        "rotor:diameter": "149 m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2512236,
+          52.345663
+        ]
+      },
+      "id": "node/9023611322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9023611330",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "5.7 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "105",
+        "manufacturer": "Nordex",
+        "model": "N149/5.X",
+        "operator": "Berliner Stadtwerke",
+        "power": "generator",
+        "rotor:diameter": "149 m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2499225,
+          52.333635
+        ]
+      },
+      "id": "node/9023611330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9023611331",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "5.7 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "105",
+        "manufacturer": "Nordex",
+        "model": "N149/5.X",
+        "operator": "Berliner Stadtwerke",
+        "power": "generator",
+        "rotor:diameter": "149 m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2439184,
+          52.3317413
+        ]
+      },
+      "id": "node/9023611331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9421251267",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.30 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "149 m",
+        "manufacturer": "Vestas",
+        "model": "V126",
+        "note:de": "4",
+        "power": "generator",
+        "ref": "MaStR-Nr. SEE952577563313",
+        "rotor:diameter": "126 m",
+        "source": "survey, Bundesnetzagentur",
+        "start_date": "2022/07",
+        "survey:date": "2022-01-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.591461,
+          52.621318
+        ]
+      },
+      "id": "node/9421251267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9421251268",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.30 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "149 m",
+        "manufacturer": "Vestas",
+        "model": "V126",
+        "note:de": "9, replaced GE 15561357",
+        "power": "generator",
+        "ref": "MaStR-Nr. SEE904284115071",
+        "rotor:diameter": "126 m",
+        "source": "survey, Bundesnetzagentur",
+        "start_date": "2022/07",
+        "survey:date": "2022-01-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5957339,
+          52.6196987
+        ]
+      },
+      "id": "node/9421251268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9445170566",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.30 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "149 m",
+        "manufacturer": "Vestas",
+        "model": "V126",
+        "note:de": "7, replaced GE 15561356",
+        "power": "generator",
+        "ref": "MaStR-Nr. SEE951426932003",
+        "rotor:diameter": "126 m",
+        "source": "survey, Bundesnetzagentur",
+        "start_date": "2022/07",
+        "survey:date": "2022-01-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.588309,
+          52.627457
+        ]
+      },
+      "id": "node/9445170566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9445170567",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.30 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "149 m",
+        "manufacturer": "Vestas",
+        "model": "V126",
+        "note:de": "10,",
+        "power": "generator",
+        "ref": "MaStR-Nr. SEE939978024063",
+        "rotor:diameter": "126 m",
+        "source": "survey, Bundesnetzagentur",
+        "start_date": "2022/07",
+        "survey:date": "2022-01-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.588655,
+          52.624071
+        ]
+      },
+      "id": "node/9445170567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10287673574",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "material": "metal",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3818827,
+          52.4536881
+        ]
+      },
+      "id": "node/10287673574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10287673575",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "vertical_axis",
+        "material": "metal",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3818027,
+          52.4536734
+        ]
+      },
+      "id": "node/10287673575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10775686540",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "5.7 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "105",
+        "manufacturer": "Nordex",
+        "model": "N149/5.X",
+        "power": "generator",
+        "rotor:diameter": "149 m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2465556,
+          52.3481144
+        ]
+      },
+      "id": "node/10775686540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10775686541",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "5.7 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "105",
+        "manufacturer": "Nordex",
+        "model": "N149/5.X",
+        "power": "generator",
+        "rotor:diameter": "149 m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.241213,
+          52.3505726
+        ]
+      },
+      "id": "node/10775686541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10775686542",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "5.7 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "105",
+        "manufacturer": "Nordex",
+        "model": "N149/5.X",
+        "power": "generator",
+        "rotor:diameter": "149 m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2451221,
+          52.3538168
+        ]
+      },
+      "id": "node/10775686542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11991929030",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "4.2 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "160",
+        "model": "Enercon E-138",
+        "operator": "Energiequelle GmbH",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2666894,
+          52.3304201
+        ]
+      },
+      "id": "node/11991929030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12033022180",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "6 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "169",
+        "manufacturer": "Vestas",
+        "model": "V150 - 6.0 MW",
+        "power": "generator",
+        "rotor:diameter": "150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2546807,
+          52.357732
+        ]
+      },
+      "id": "node/12033022180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12138128802",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.5 kW",
+        "generator:place": "roof",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "location": "roof",
+        "manufacturer": "Mowea GmbH",
+        "operator": "Mowea GmbH",
+        "power": "generator",
+        "source": "https://www.rbb24.de/panorama/beitrag/2023/01/kleinwindanlagen-berlin-brandenburg-windenergie-selbstversorgung-nachhaltigkeit.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4542839,
+          52.5356815
+        ]
+      },
+      "id": "node/12138128802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12138128803",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.5 kW",
+        "generator:place": "roof",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "location": "roof",
+        "manufacturer": "Mowea GmbH",
+        "operator": "Mowea GmbH",
+        "power": "generator",
+        "source": "https://www.rbb24.de/panorama/beitrag/2023/01/kleinwindanlagen-berlin-brandenburg-windenergie-selbstversorgung-nachhaltigkeit.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4543142,
+          52.5356911
+        ]
+      },
+      "id": "node/12138128803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12709722084",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "6.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "164",
+        "manufacturer": "Nordex",
+        "model": "N163",
+        "note": "LINrep9, under construction, foundation ready",
+        "operator": "Teut",
+        "power": "generator",
+        "ref": "MaStR-Nr. SEE958928377547",
+        "rotor:diameter": "163",
+        "source": "survey, Bundesnetzagentur",
+        "survey:date": "2025-093-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.536774,
+          52.6097259
+        ]
+      },
+      "id": "node/12709722084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12709722085",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "6.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height:hub": "164",
+        "manufacturer": "Nordex",
+        "model": "N163",
+        "note": "LINrep8, under construction, foundation ready",
+        "operator": "Teut",
+        "power": "generator",
+        "ref": "MaStR-Nr. SEE940528373272",
+        "rotor:diameter": "163",
+        "source": "survey, Bundesnetzagentur",
+        "survey:date": "2025-093-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5412941,
+          52.611692
+        ]
+      },
+      "id": "node/12709722085"
+    }
+  ]
+}
