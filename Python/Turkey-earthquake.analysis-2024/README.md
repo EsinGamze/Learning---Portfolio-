@@ -68,7 +68,9 @@ This project analyzes and visualizes earthquake data across Turkey using real-ti
 ---
 
 ### Interactive Maps
-
+➡️ [Click here to view the map](https://esingamze.github.io/learning-portfolio/Python/Turkey-earthquake.analy/turkey_earthquakes_map.html)
+➡️ [Click here to view the map](https://esingamze.github.io/learning-portfolio/Python/wind-turbine-proximity/wind_turbines_proximity_final.html)
+➡️ [Click here to view the map](https://esingamze.github.io/learning-portfolio/Python/wind-turbine-proximity/wind_turbines_proximity_final.html)
 - [Earthquake Map with Clusters](turkey_earthquakes_map.html) – Click to view all recorded earthquakes on an interactive map.
 - [Earthquake Heatmap](turkey_earthquake_heatmap.html) – Visualize earthquake density across Turkey.
 - [Earthquakes by Region](turkey_quakes_by_region.html) – Explore earthquakes by assigned region color coding.
